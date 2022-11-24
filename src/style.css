@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+li:nth-child(odd) {
+  background: lightsteelblue;
+}
+li:nth-child(even) {
+  background: lightgray;
+}
